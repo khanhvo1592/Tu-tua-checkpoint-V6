@@ -24,4 +24,4 @@ node work/test-userscript.cjs
 
 ## Yêu cầu nội dung hướng dẫn
 
-Hỗ trợ Windows và Mac. Giữ footer Zalo liên hệ 0979989978. Không thêm lại hai đoạn trạng thái kiểm tra đã được người dùng yêu cầu xóa.
+Hỗ trợ Windows và Mac. Không thêm lại footer Zalo hỗ trợ cài đặt. Không thêm lại hai đoạn trạng thái kiểm tra đã được người dùng yêu cầu xóa.
